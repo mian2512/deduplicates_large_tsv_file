@@ -4,9 +4,6 @@ This script removes duplicate rows in a large csv file
 Created 06.10.2016 by Paul Sirma 
 """
 
-#Packages for Notepad++
-import os.path, sys
-sys.path.append('C:/Anaconda2/Lib/site-packages/')
 
 #Necessary packages to run this script 
 import csv
